@@ -1,7 +1,3 @@
-# starter express app template
+# Short assignments on web sockets
 
-* node with babel
-* expressjs
-* airbnb eslint rules
-
-Procfile set up to run on [heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs#deploy-the-app)
+code set up to run the websockets short assignment. 
